@@ -12,6 +12,7 @@
 
 ## Background
 
+- Loves a Jupyter Notebook
 - Loves a MindMap
 - Will try to FlowChart everything
 - Listens to [Modern Finance](https://open.spotify.com/show/3z1kRnklGRHd5BkU9rAa2y?si=b55dca0a61f84957) while walking my Cavalier Spaniel up and down the Thames.
