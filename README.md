@@ -20,7 +20,6 @@
 
 ## Current Projects
 
-- Machine Learning - Applying a Decision Tree for looking for value in the Markets using NBA statistics
 - Crypto Currency - Using a Rebalancing Algorithm on a Crypto Wallet to monitor the BACON Protocol NFT and fractional shares of US Mortgages.
 
 ## Github Stats
