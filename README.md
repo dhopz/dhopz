@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm David
 
-- 🤔 I’m just thinking am I going to transfer 20+ repos to this account...
+
 
 ## Makers Projects
 
