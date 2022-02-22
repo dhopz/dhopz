@@ -15,12 +15,6 @@
 - Loves a Jupyter Notebook
 - Loves a MindMap
 - Will try to FlowChart everything
-- Listens to [Modern Finance](https://open.spotify.com/show/3z1kRnklGRHd5BkU9rAa2y?si=b55dca0a61f84957) while walking my Cavalier Spaniel up and down the Thames.
-- Records everything on [Strava](https://www.strava.com/athletes/dhoupapa) - FTP 330 🥵🚴- 
-
-## Current Projects
-
-- Crypto Currency - Using a Rebalancing Algorithm on a Crypto Wallet to monitor the BACON Protocol NFT and fractional shares of US Mortgages.
 
 ## Github Stats
 [![Davids GitHub stats](https://github-readme-stats.vercel.app/api?username=dhopz&&theme=dark&show_icons=true&count_private=true)](https://github.com/dhopz/github-readme-stats)
