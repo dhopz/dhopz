@@ -16,8 +16,7 @@
 - Loves a MindMap
 - Will try to FlowChart everything
 
-## Github Stats
-[![Davids GitHub stats](https://github-readme-stats.vercel.app/api?username=dhopz&&theme=dark&show_icons=true&count_private=true)](https://github.com/dhopz/github-readme-stats)
+
 
 
 
