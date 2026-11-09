@@ -10,11 +10,6 @@
 | [Acebook](https://acebook-anti-social-media-inc.herokuapp.com/) | A Facebook clone! | Ruby on Rails, HTML, CSS, RSPec, Capybara, PostgreSQL |
 | [Makers BNB](https://github.com/dhopz/makers-bnb-post-team) | Part of the Makers Curriculum, make an Air BNB Clone!| Ruby, Sinatra, PostgreSQL, HTML, CSS, RSpec
 
-## Background
-
-- Loves a Jupyter Notebook
-- Loves a MindMap
-- Will try to FlowChart everything
 
 
 
